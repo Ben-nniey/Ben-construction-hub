@@ -1,0 +1,10 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#1a73e8"/>
+  <path d="M100 240 L256 110 L412 240 V400 H100 Z" fill="#ffffff"/>
+  <rect x="220" y="290" width="72" height="110" fill="#fbbc04"/>
+  <rect x="145" y="265" width="45" height="45" fill="#1a73e8"/>
+  <rect x="322" y="265" width="45" height="45" fill="#1a73e8"/>
+  <text x="256" y="465" font-family="Arial, sans-serif" font-size="44" font-weight="bold" text-anchor="middle" fill="#ffffff">BEN</text>
+</svg>
+
